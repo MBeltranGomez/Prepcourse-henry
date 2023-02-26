@@ -1,2 +1,2 @@
-este una prueba de como crear un repositorio y clonarlo desde github
+mi nombre es miguel beltran
 
